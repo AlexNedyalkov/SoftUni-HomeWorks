@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\TechMolude  Week1\Vacation\bin\Debug\Vacation.exe.config
+C:\Users\User\source\repos\TechMolude  Week1\Vacation\bin\Debug\Vacation.exe
+C:\Users\User\source\repos\TechMolude  Week1\Vacation\bin\Debug\Vacation.pdb
+C:\Users\User\source\repos\TechMolude  Week1\Vacation\obj\Debug\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TechMolude  Week1\Vacation\obj\Debug\Vacation.exe
+C:\Users\User\source\repos\TechMolude  Week1\Vacation\obj\Debug\Vacation.pdb

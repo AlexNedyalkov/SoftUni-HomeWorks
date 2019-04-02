@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\TechMolude  Week1\PrintSum\bin\Debug\PrintSum.exe.config
+C:\Users\User\source\repos\TechMolude  Week1\PrintSum\bin\Debug\PrintSum.exe
+C:\Users\User\source\repos\TechMolude  Week1\PrintSum\bin\Debug\PrintSum.pdb
+C:\Users\User\source\repos\TechMolude  Week1\PrintSum\obj\Debug\PrintSum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TechMolude  Week1\PrintSum\obj\Debug\PrintSum.exe
+C:\Users\User\source\repos\TechMolude  Week1\PrintSum\obj\Debug\PrintSum.pdb
